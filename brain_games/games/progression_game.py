@@ -1,6 +1,7 @@
 import random
 from brain_games.engine import run_game
-from brain_games.const import MAX_PROGRESSION, MIN_PROGRESSION, PROGRESS_INSTRUCTION
+from brain_games.const import (MAX_PROGRESSION, MIN_PROGRESSION,
+                               PROGRESS_INSTRUCTION)
 
 
 def progression():
