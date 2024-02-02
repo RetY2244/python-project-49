@@ -13,22 +13,28 @@
  - Игра «Простое ли число?» *(brain-prime)*
 
 ## Установка
-git@github.com:RetY2244/python-project-49.git
 
-<p>cd python-project-49/
+         git@github.com:RetY2244/python-project-49.git
+
+cd python-project-49/
 poetry install (make install)
 poetry build (make build)
-python3 -m pip install --user dist/*.whl (make package-install)</p>
+python3 -m pip install --user dist/*.whl (make package-install)
 
 ## Команды для запуска игр
-<p>brain-even - Проверка на чётность
+brain-even - Проверка на чётность
 brain-calc - Калькулятор
 brain-progression - Игра «Арифметическая прогрессия»
 brain-gcd - Игра «НОД»
-brain-prime - Игра «Простое ли число?»</p>
+brain-prime - Игра «Простое ли число?»
 
-<a href="<script async id="asciicast-633217" src="https://asciinema.org/a/633217.js"></script>Brain Even</a>
-<a href="<script async id="asciicast-633256" src="https://asciinema.org/a/633256.js"</script>Brain Calc</a>
-<a href="<script async id="asciicast-633264" src="https://asciinema.org/a/633264.js"></script>Brain Gsd</a>
-<a href="<script async id="asciicast-633943" src="https://asciinema.org/a/633943.js"></script>Brain Progression</a>
-<a href="<script async id="asciicast-634325" src="https://asciinema.org/a/634325.js"></script>Brain Prime</a>
+### Brain-Even
+[![asciicast](https://asciinema.org/a/633217.svg)](https://asciinema.org/a/633217) 
+### Brain-Calc
+[![asciicast](https://asciinema.org/a/633256.svg)](https://asciinema.org/a/633256)
+### Brain-Prime
+[![asciicast](https://asciinema.org/a/634325.svg)](https://asciinema.org/a/634325)
+### Brain-Progression
+[![asciicast](https://asciinema.org/a/633943.svg)](https://asciinema.org/a/633943)
+### Brain-Gsd
+[![asciicast](https://asciinema.org/a/633264.svg)](https://asciinema.org/a/633264)
