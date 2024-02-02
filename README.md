@@ -16,10 +16,10 @@
 
       git clone git@github.com:RetY2244/python-project-49.git
 
-cd python-project-49\n
-poetry install (make install)\n
-poetry build (make build)\n
-python3 -m pip install --user dist/*.whl (make package-install)\n
+cd python-project-49
+poetry install (make install)
+poetry build (make build)
+python3 -m pip install --user dist/*.whl (make package-install)
 
 ## Команды для запуска игр
 brain-even - Проверка на чётность
