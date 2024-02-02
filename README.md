@@ -14,7 +14,7 @@
 
 ## Установка
 
-         git@github.com:RetY2244/python-project-49.git
+      git clone git@github.com:RetY2244/python-project-49.git
 
 cd python-project-49/
 poetry install (make install)
