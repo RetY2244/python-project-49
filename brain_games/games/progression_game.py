@@ -1,7 +1,8 @@
 import random
-from brain_games.engine import run_game
-from brain_games.const import (MAX_PROGRESSION, MIN_PROGRESSION,
-                               PROGRESS_INSTRUCTION)
+
+
+MAX_PROGRESSION = 10
+MIN_PROGRESSION = 5
 
 
 def progression():
@@ -17,7 +18,3 @@ def progression():
     prog_with_missed_num = ' '.join(map(str, prog))
 
     return prog_with_missed_num, str(missed_num)
-
-
-def run_progression_game():
-    run_game(progression, PROGRESS_INSTRUCTION)
