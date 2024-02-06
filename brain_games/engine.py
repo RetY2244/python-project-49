@@ -1,6 +1,6 @@
 import prompt
-from brain_games.games import calc_game, even_game, gcd_game,
-     prime_game, progression_game
+from brain_games.games import (calc_game, even_game, gcd_game,
+                               prime_game, progression_game)
 
 PROGRESS_INSTRUCTION = 'What number is missing in the progression?'
 EVEN_INSTRUCTION = 'Answer "yes" if the number is even, otherwise answer "no".'
