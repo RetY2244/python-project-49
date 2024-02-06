@@ -29,7 +29,7 @@ brain-gcd - Игра «НОД»
 brain-prime - Игра «Простое ли число?»
 
 ### Brain-Even
-[![asciicast](https://asciinema.org/a/633217.svg)](https://asciinema.org/a/633217) 
+[![asciicast](https://asciinema.org/a/633217.svg)](https://asciinema.org/a/633217)
 ### Brain-Calc
 [![asciicast](https://asciinema.org/a/633256.svg)](https://asciinema.org/a/633256)
 ### Brain-Prime
