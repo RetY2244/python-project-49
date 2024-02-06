@@ -4,7 +4,7 @@
 <a href="https://codeclimate.com/github/RetY2244/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/60bb25d88783fc5688a8/maintainability" /></a>
 <h1>Проект Игры Разума</h1>
 
-Пять математических мини-игр:
+Пять математических мини-игр: 
 
  - Проверка на чётность *(brain-even)*
  - Калькулятор *(brain-calc)*
