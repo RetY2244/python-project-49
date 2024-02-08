@@ -1,11 +1,13 @@
 import random
 
+INSTRUCTION = 'What number is missing in the progression?'
+
 
 MAX_PROGRESSION = 10
 MIN_PROGRESSION = 5
 
 
-def progression():
+def get_questions_and_answer():
     prog = []
     num1, num2 = random.randint(1, 100), random.randint(1, 100)
     length_prog = random.randint(MIN_PROGRESSION, MAX_PROGRESSION)
@@ -13,8 +15,8 @@ def progression():
         prog.append(num1 + num2 * i)
 
     random_index = random.randint(0, length_prog - 1)
-    missed_num = prog[random_index]
+    answer = prog[random_index]
     prog[random_index] = '..'
-    prog_with_missed_num = ' '.join(map(str, prog))
+    question = ' '.join(map(str, prog))
 
-    return prog_with_missed_num, str(missed_num)
+    return question, str(answer)
