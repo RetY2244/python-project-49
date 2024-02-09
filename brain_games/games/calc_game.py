@@ -3,7 +3,7 @@ import random
 INSTRUCTION = 'What is the result of the expression?'
 
 
-MATH_SIGNS = (['+', '-', '*'])
+MATH_SIGNS = ['+', '-', '*']
 
 
 def get_questions_and_answer():
