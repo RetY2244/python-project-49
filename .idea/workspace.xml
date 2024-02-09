@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37ee7aec-4130-44f1-b43c-828e14a08b67" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/brain_games/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/games/calc_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/games/calc_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/games/even_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/games/even_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/games/gcd_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/games/gcd_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/games/prime_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/games/prime_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/games/progression_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/games/progression_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_gcd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brain_games/scripts/brain_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain_games/scripts/brain_progression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
       <workItem from="1707241248883" duration="1225000" />
       <workItem from="1707244086399" duration="771000" />
       <workItem from="1707386998070" duration="1746000" />
-      <workItem from="1707388760366" duration="1298000" />
+      <workItem from="1707388760366" duration="1973000" />
     </task>
     <servers />
   </component>
